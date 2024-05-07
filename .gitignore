@@ -1,3 +1,7 @@
 # Ignore all virtual environments
 venv*
 
+# Ignore temporary folders
+tuner_trainer/__pycache__*
+tuner_trainer/pipeline*
+tuner_trainer/tempdir*
